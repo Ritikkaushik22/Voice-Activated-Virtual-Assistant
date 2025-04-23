@@ -13,3 +13,29 @@ A voice-activated virtual assistant designed to perform tasks such as web browsi
 - 🛡️ **Command Filtering**: Prevents execution of unsafe commands like shutdown or delete.
 
 ---
+
+
+
+
+
+
+
+
+## 🔄 Resetting Your Environment (If `env/` is Deleted/Not present)
+
+If you accidentally deleted your `env/` folder (your virtual environment) or not having in your system, you can easily recreate it:
+
+### Step 1: Recreate the virtual environment
+python -m venv env
+
+### step2:
+Activate the environment
+#### On Windows:
+env\Scripts\activate
+
+#### On macOS/Linux:
+source env/bin/activate
+
+### Step 3: Reinstall all required packages
+pip install -r requirements.txt
+
