@@ -28,8 +28,7 @@ If you accidentally deleted your `env/` folder (your virtual environment) or not
 ### Step 1: Recreate the virtual environment
 python -m venv env
 
-### step2:
-Activate the environment
+### Step2: Activate the environment
 #### On Windows:
 env\Scripts\activate
 
