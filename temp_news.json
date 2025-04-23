@@ -1,0 +1,24 @@
+
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+      {
+        "source": {"id": "cnn", "name": "CNN"},
+        "author": "John Doe",
+        "title": "Breaking News: Huge Earthquake Hits City",
+        "description": "A massive earthquake of magnitude 7.5 hit the city this morning...",
+        "url": "https://www.cnn.com/breaking-news",
+        "publishedAt": "2025-04-23T07:00:00Z"
+      },
+      {
+        "source": {"id": "bbc", "name": "BBC"},
+        "author": "Jane Smith",
+        "title": "New Innovations in AI Technology",
+        "description": "Scientists have unveiled new AI algorithms that will revolutionize tech...",
+        "url": "https://www.bbc.com/ai-technology",
+        "publishedAt": "2025-04-23T08:00:00Z"
+      }
+    ]
+  }
+  
